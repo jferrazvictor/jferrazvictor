@@ -2,7 +2,7 @@
 
 ## **`🧑🏽‍💻 João Victor Ferraz`**
 
-Olá! Me chamo João Victor Ferraz, natural de São Paulo, desenvolvedor em transição para o backend e graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Mato Grosso do Sul.
+Olá! Me chamo João Victor Ferraz, natural de São Paulo, desenvolvedor em transição para o backend e graduando em Analise e Desenvolvimento de Sistemas pelo Instituto Federal de Mato Grosso do Sul.
 
 Atualmente, gerencio infraestrutura de TI e modernizo sistemas legados, o que me deu uma visão prática de como o software precisa ser resiliente e eficiente no mundo real. Sou apaixonado por resolver problemas complexos de lógica de programação, com foco especial no ecossistema Java e Python.
 
@@ -104,6 +104,18 @@ Atualmente, gerencio infraestrutura de TI e modernizo sistemas legados, o que me
     📊 Desenvolvendo um sistema de Controle Financeiro e Investimentos (Spring Boot).
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jferrazvictor&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
+
+### 📫 Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/jferrazvictor" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/victor.jferraz" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:joao.ferraz@estudante.ifms.edu.br">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
