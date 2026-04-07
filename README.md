@@ -102,5 +102,8 @@ Atualmente , gerencio infraestrutura de TI e modernizo sistemas legados, o que m
     🐍 Praticando algoritmos e lógica com Python.
 
     📊 Desenvolvendo um sistema de Controle Financeiro e Investimentos (Spring Boot).
-        
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jferrazvictor&show_icons=true&theme=dracula)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jferrazvictor&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
