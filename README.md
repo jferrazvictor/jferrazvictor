@@ -2,9 +2,9 @@
 
 ## **`🧑🏽‍💻 João Victor Ferraz`**
 
-    Olá! Me chamo João Victor Ferraz, natural de São Paulo, desenvolvedor em transição para o backend e graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Mato Grosso do Sul.
+Olá! Me chamo João Victor Ferraz, natural de São Paulo, desenvolvedor em transição para o backend e graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Mato Grosso do Sul.
 
-    Atualmente , gerencio infraestrutura de TI e modernizo sistemas legados, o que me deu uma visão prática de como o software precisa ser resiliente e eficiente no mundo real. Sou apaixonado por resolver problemas complexos de lógica de programação, com foco especial no ecossistema Java e Python.
+Atualmente , gerencio infraestrutura de TI e modernizo sistemas legados, o que me deu uma visão prática de como o software precisa ser resiliente e eficiente no mundo real. Sou apaixonado por resolver problemas complexos de lógica de programação, com foco especial no ecossistema Java e Python.
 
 
 ## **`⚙️ Linguagens e Tecnologias`**
