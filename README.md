@@ -105,5 +105,5 @@ Atualmente, gerencio infraestrutura de TI e modernizo sistemas legados, o que me
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jferrazvictor&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jferrazvictor&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
