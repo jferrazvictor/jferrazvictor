@@ -1,4 +1,4 @@
-#  🚀Sobre Mim
+#  Sobre Mim
 
 ## **`🧑🏽‍💻 João Victor Ferraz`**
 
@@ -104,9 +104,9 @@ Atualmente, gerencio infraestrutura de TI e modernizo sistemas legados, o que me
     📊 Desenvolvendo um sistema de Controle Financeiro e Investimentos (Spring Boot).
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jferrazvictor&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p> -->
+</p>
 
 ### 📫 Vamos nos conectar?
 
